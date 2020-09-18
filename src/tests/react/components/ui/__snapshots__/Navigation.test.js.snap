@@ -44,7 +44,7 @@ exports[`Render Navigation component 1`] = `
           "text": "Unix",
         },
         Object {
-          "href": "https://github.com/RobbyB97/JavascriptReactBoilerplate",
+          "href": "https://github.com/RobbyB97/open-source-cs",
           "internal": false,
           "text": "View on GitHub",
         },
@@ -90,7 +90,7 @@ exports[`Render Navigation component 1`] = `
           "text": "Unix",
         },
         Object {
-          "href": "https://github.com/RobbyB97/JavascriptReactBoilerplate",
+          "href": "https://github.com/RobbyB97/open-source-cs",
           "internal": false,
           "text": "View on GitHub",
         },

@@ -7,7 +7,7 @@
 .DesktopNavigationLink:hover {
     .DesktopNavigationLink__link {
         border-bottom: 2px solid $primaryColor;
-        color: $black;
+        color: $primaryColor;
     }
 
     .DesktopNavigationLink__sublink_list {
@@ -17,7 +17,7 @@
 
 
 .DesktopNavigationLink__link {
-    color: $primaryColor;
+    color: $white;
     text-decoration: none;
     transition: 100ms;
     display: block;

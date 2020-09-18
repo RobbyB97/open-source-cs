@@ -1,12 +1,13 @@
 .Course {
-    background: lighten($white, 5%);
-    width: 300px;
+    background: $backgroundLightColor;
+    width: 284px;
     margin: 0 auto;
     text-align: center;
     display: block;
     padding: 8px;
     text-decoration: none;
     margin-bottom: 16px;
+    border-radius: 12px;
 
     @media #{$tablet_breakpoint} {
         width: 400px;

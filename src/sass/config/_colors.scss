@@ -15,7 +15,10 @@ $primaryColor: #2166A0;
 $primaryColor_light: saturate(lighten($primaryColor, 10%), 20%);
 $primaryColor_dark: desaturate(darken($primaryColor, 20%), 30%);
 
-$backgroundColor: $white;
+$backgroundColor: #161620;
+$backgroundLightColor: desaturate(lighten($backgroundColor, 70%), 20%);
+
+$accentColor: lighten($backgroundColor, 5%);
 
 $headerColor: $primaryColor;
 $textColor: $black;

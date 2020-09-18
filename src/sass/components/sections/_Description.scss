@@ -17,10 +17,14 @@
 .Description__description {
     text-align: center;
 
-
     p {
         margin: 20px auto;
         max-width: 768px;
+        color: $white;
+    }
+
+    figcaption {
+        color: $white;
     }
 }
 

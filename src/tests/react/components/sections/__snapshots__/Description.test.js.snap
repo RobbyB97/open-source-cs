@@ -64,17 +64,6 @@ exports[`Render Description section 1`] = `
          explains the concept of Open Source CS
       </figcaption>
     </figure>
-    <p>
-      The 
-      <a
-        href="https://github.com/ForrestKnight/open-source-cs"
-        rel="noopener"
-        target="_blank"
-      >
-        original Open Source CS repository
-      </a>
-       is just a table in a README file on GitHub. This website gives a more accessible and responsive alternative.
-    </p>
   </section>
 </section>
 `;

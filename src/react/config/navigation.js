@@ -35,7 +35,7 @@ export default [
         internal: true
     }, {
         text: "View on GitHub",
-        href: "https://github.com/RobbyB97/JavascriptReactBoilerplate",
+        href: "https://github.com/RobbyB97/open-source-cs",
         internal: false
     }
 ]
