@@ -9,7 +9,7 @@ exports[`Render Navigation component 1`] = `
     links={
       Array [
         Object {
-          "href": "/standard-degree",
+          "href": "/standard-degree#StandardDegree",
           "internal": true,
           "sublinks": Array [
             Object {
@@ -51,51 +51,51 @@ exports[`Render Navigation component 1`] = `
           "text": "Standard Degree",
         },
         Object {
-          "href": "/python-degree",
+          "href": "/python-degree#PythonDegree",
           "internal": true,
           "sublinks": Array [
             Object {
-              "href": "/standard-degree#CSBasics",
+              "href": "/python-degree#CSBasics",
               "internal": true,
               "text": "CS Basics",
             },
             Object {
-              "href": "/standard-degree#Programming",
+              "href": "/python-degree#Programming",
               "internal": true,
               "text": "Programming",
             },
             Object {
-              "href": "/standard-degree#Programming(alternative)",
+              "href": "/python-degree#Programming(alternative)",
               "internal": true,
               "text": "Programming (alternate)",
             },
             Object {
-              "href": "/standard-degree#Math",
+              "href": "/python-degree#Math",
               "internal": true,
               "text": "Math",
             },
             Object {
-              "href": "/standard-degree#DataScience",
+              "href": "/python-degree#DataScience",
               "internal": true,
               "text": "Data Science",
             },
             Object {
-              "href": "/standard-degree#Systems",
+              "href": "/python-degree#Systems",
               "internal": true,
               "text": "Systems",
             },
             Object {
-              "href": "/standard-degree#Theory",
+              "href": "/python-degree#Theory",
               "internal": true,
               "text": "Theory",
             },
             Object {
-              "href": "/standard-degree#Applications",
+              "href": "/python-degree#Applications",
               "internal": true,
               "text": "Applications",
             },
             Object {
-              "href": "/standard-degree#Unix",
+              "href": "/python-degree#Unix",
               "internal": true,
               "text": "Unix",
             },
@@ -109,7 +109,7 @@ exports[`Render Navigation component 1`] = `
     links={
       Array [
         Object {
-          "href": "/standard-degree",
+          "href": "/standard-degree#StandardDegree",
           "internal": true,
           "sublinks": Array [
             Object {
@@ -151,51 +151,51 @@ exports[`Render Navigation component 1`] = `
           "text": "Standard Degree",
         },
         Object {
-          "href": "/python-degree",
+          "href": "/python-degree#PythonDegree",
           "internal": true,
           "sublinks": Array [
             Object {
-              "href": "/standard-degree#CSBasics",
+              "href": "/python-degree#CSBasics",
               "internal": true,
               "text": "CS Basics",
             },
             Object {
-              "href": "/standard-degree#Programming",
+              "href": "/python-degree#Programming",
               "internal": true,
               "text": "Programming",
             },
             Object {
-              "href": "/standard-degree#Programming(alternative)",
+              "href": "/python-degree#Programming(alternative)",
               "internal": true,
               "text": "Programming (alternate)",
             },
             Object {
-              "href": "/standard-degree#Math",
+              "href": "/python-degree#Math",
               "internal": true,
               "text": "Math",
             },
             Object {
-              "href": "/standard-degree#DataScience",
+              "href": "/python-degree#DataScience",
               "internal": true,
               "text": "Data Science",
             },
             Object {
-              "href": "/standard-degree#Systems",
+              "href": "/python-degree#Systems",
               "internal": true,
               "text": "Systems",
             },
             Object {
-              "href": "/standard-degree#Theory",
+              "href": "/python-degree#Theory",
               "internal": true,
               "text": "Theory",
             },
             Object {
-              "href": "/standard-degree#Applications",
+              "href": "/python-degree#Applications",
               "internal": true,
               "text": "Applications",
             },
             Object {
-              "href": "/standard-degree#Unix",
+              "href": "/python-degree#Unix",
               "internal": true,
               "text": "Unix",
             },

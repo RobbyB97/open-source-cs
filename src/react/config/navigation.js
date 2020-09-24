@@ -6,7 +6,7 @@
 
 export default [
     {
-        href: "/standard-degree",
+        href: "/standard-degree#StandardDegree",
         text: "Standard Degree",
         internal: true,
         sublinks: [{
@@ -39,7 +39,7 @@ export default [
             internal: true
         }]
     }, {
-        href: "/python-degree",
+        href: "/python-degree#PythonDegree",
         text: "Python Degree",
         internal: true,
         sublinks: [{
