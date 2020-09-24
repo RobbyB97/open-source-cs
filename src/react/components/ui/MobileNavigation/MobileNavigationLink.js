@@ -1,6 +1,6 @@
 /* Packages */
 import React from 'react';
-import {NavLink} from 'react-router-dom';
+import {NavHashLink as NavLink} from 'react-router-hash-link';
 import {connect} from 'react-redux';
 
 
@@ -89,10 +89,7 @@ export class MobileNavigationLink extends React.Component {
                                     <NavLink
                                         className="MobileNavigationLink__sublink_link"
                                         to={sublink.href}
-                                        onClick={
-                                            this.sublink_Menu__Toggle &
-                                            this.navMenu_Mobile__Toggle
-                                        }
+                                        onClick={this.navMenu_Mobile__Toggle}
                                     >
                                         {sublink.text}
                                     </NavLink>
@@ -102,10 +99,7 @@ export class MobileNavigationLink extends React.Component {
                                     <a
                                         className="MobileNavigationLink__sublink_link"
                                         href={sublink.href}
-                                        onClick={
-                                            this.sublink_Menu__Toggle &
-                                            this.navMenu_Mobile__Toggle
-                                        }
+                                        onClick={this.navMenu_Mobile__Toggle}
                                     >
                                         {sublink.text}
                                     </a>
