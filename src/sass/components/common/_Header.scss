@@ -6,9 +6,11 @@
     border-bottom: 1px solid black;
     background: $accentColor;
     height: 56px;
+    z-index: 2;
 
 
     @media #{$desktop_breakpoint} {
+        position: fixed;
         height: 51px;
     }
 }
