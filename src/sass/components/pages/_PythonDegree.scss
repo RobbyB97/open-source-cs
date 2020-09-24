@@ -1,0 +1,9 @@
+.PythonDegree {
+    @include page;
+}
+
+
+.PythonDegree__header {
+    @include pageHeader;
+    text-align: center;
+}

@@ -1,0 +1,446 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render PythonDegree page 1`] = `
+<div
+  className="PythonDegree"
+  id="PythonDegree"
+>
+  <header
+    className="PythonDegree__header"
+  >
+    <h1>
+      Python Degree program
+    </h1>
+  </header>
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "10",
+          "effort": "10-20",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
+            "text": "Intro to Computer Science",
+          },
+          "school": "Harvard",
+        },
+        Object {
+          "duration": "6",
+          "effort": "2-5",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/what-is-a-proof",
+            "text": "Mathematical Thinking in Computer Science",
+          },
+          "school": "UC San Diego",
+        },
+      ]
+    }
+    name="CS Basics"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "4",
+          "effort": "4-6",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python",
+            "text": "Programming for everybody (Getting Started with Python)",
+          },
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "4",
+          "effort": "4-6",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-data",
+            "text": "Python Data Structures",
+          },
+          "prerequisites": Array [
+            "Programming for Everybody (Getting Started with Python)",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "4",
+          "effort": "4-6",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-network-data",
+            "text": "Using Python to Access Web Data",
+          },
+          "prerequisites": Array [
+            "Python Data Structures",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "3",
+          "effort": "4-8",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-databases",
+            "text": "Using Databases with Python",
+          },
+          "prerequisites": Array [
+            "Using Python to Access Web Data",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "2",
+          "effort": "4-6",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-data-visualization",
+            "text": "Capstone: Retrieving, Processing and Visualizing Data with Python",
+          },
+          "prerequisites": Array [
+            "Using Databases with Python",
+          ],
+          "school": "University of Michigan",
+        },
+      ]
+    }
+    name="Programming"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "20",
+          "effort": "7",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/specializations/python-3-programming",
+            "text": "Python 3 Programming Specialization",
+          },
+          "school": "University of Michigan",
+        },
+      ]
+    }
+    name="Programming (alternative)"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "15",
+          "effort": "9-10",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.edx.org/course/precalculus",
+            "text": "Precalculus",
+          },
+          "school": "ASU",
+        },
+        Object {
+          "duration": "12",
+          "effort": "6-10",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.edx.org/course/calculus-1a-differentiation",
+            "text": "Calculus 1A: Differentiation",
+          },
+          "prerequisites": Array [
+            "Precalculus",
+          ],
+          "school": "MIT",
+        },
+        Object {
+          "duration": "15",
+          "effort": "6-10",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.edx.org/course/calculus-1b-integration",
+            "text": "Calculus 1B: Integration",
+          },
+          "prerequisites": Array [
+            "Calculus 1A: Differentiation",
+          ],
+          "school": "MIT",
+        },
+        Object {
+          "duration": "8",
+          "effort": "6-10",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series",
+            "text": "Calculus 1C: Coordinate Systems & Infinite Series",
+          },
+          "prerequisites": Array [
+            "Calculus 1B: Integration",
+          ],
+          "school": "MIT",
+        },
+        Object {
+          "duration": "15",
+          "effort": "6-10",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.edx.org/course/linear-algebra-foundations-to-frontiers",
+            "text": "Linear Algebra - Foundations to Frontiers",
+          },
+          "prerequisites": Array [
+            "Precalculus",
+          ],
+          "school": "UT Austin",
+        },
+        Object {
+          "duration": "5",
+          "effort": "5-7",
+          "frequency": "Twice a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/probability-intro",
+            "text": "Introduction to Probability and Data",
+          },
+          "school": "Duke",
+        },
+        Object {
+          "duration": "8",
+          "effort": "5-7",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.udacity.com/course/intro-to-statistics--st101",
+            "text": "Intro to Statistics",
+          },
+          "school": "Udacity",
+        },
+      ]
+    }
+    name="Math"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "3",
+          "effort": "4-6",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-data-analysis",
+            "text": "Introduction to Data Science in Python",
+          },
+          "prerequisites": Array [
+            "Basic programming knowledge",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "4",
+          "effort": "5-7",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-plotting",
+            "text": "Applied Plotting, Charting & Data Representation in Python",
+          },
+          "prerequisites": Array [
+            "Introduction to Data Science in Python",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "6",
+          "effort": "5-7",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-machine-learning",
+            "text": "Applied Machine Learning in Python",
+          },
+          "prerequisites": Array [
+            "Applied Plotting, Charting & Data Representation in Python",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "5",
+          "effort": "5-7",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-text-mining",
+            "text": "Applied Text Mining in Python",
+          },
+          "prerequisites": Array [
+            "Applied Machine Learning in Python",
+          ],
+          "school": "University of Michigan",
+        },
+        Object {
+          "duration": "5",
+          "effort": "5-7",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/python-social-network-analysis",
+            "text": "Applied Social Network Analysis in Python",
+          },
+          "prerequisites": Array [
+            "Applied Text Mining in Python",
+          ],
+          "school": "University of Michigan",
+        },
+      ]
+    }
+    name="Data Science"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "6",
+          "effort": "5",
+          "frequency": "Twice a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/build-a-computer",
+            "text": "Build a Modern Computer from First Principles: From Nand to Tetris",
+          },
+          "prerequisites": Array [
+            "Basic programming knowledge",
+          ],
+          "school": "Hebrew University of Jerusalem",
+        },
+        Object {
+          "duration": "6",
+          "effort": "10-15",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/nand2tetris2",
+            "text": "Build a Modern Computer from First Principles: From Nand to Tetris II",
+          },
+          "prerequisites": Array [
+            "Build a Modern Computer from First Principled: From Nand to Tetris",
+          ],
+          "school": "Hebrew University of Jerusalem",
+        },
+        Object {
+          "duration": "8",
+          "effort": "5-8",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
+            "text": "Introduction to Operating Systems",
+          },
+          "prerequisites": Array [
+            "Build a Modern Computer from First Principles: From Nand to Tetris II",
+          ],
+          "school": "Georgia Tech",
+        },
+      ]
+    }
+    name="Systems"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "10",
+          "effort": "2-5",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/cs-algorithms-theory-machines",
+            "text": "Computer Science: Algorithms, Theory and Machines",
+          },
+          "prerequisites": Array [
+            "Calculus 1A",
+            "Calculus 1B",
+            "Calculus 1C",
+            "Basic programming knowledge",
+          ],
+          "school": "Princeton",
+        },
+        Object {
+          "duration": "6",
+          "effort": "6-12",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/algorithms-part1",
+            "text": "Algorithms, Part I",
+          },
+          "prerequisites": Array [
+            "Computer Science: Algorithms, Theory and Machines",
+          ],
+          "school": "Princeton",
+        },
+        Object {
+          "duration": "6",
+          "effort": "6-12",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/algorithms-part2",
+            "text": "Algorithms, Part II",
+          },
+          "prerequisites": Array [
+            "Algorithms, Part II",
+          ],
+          "school": "Princeton",
+        },
+      ]
+    }
+    name="Theory"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "7",
+          "effort": "4-6",
+          "frequency": "Twice a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/database-management",
+            "text": "Database Management Essentials",
+          },
+          "prerequisites": Array [
+            "Basic programming & CS knowledge",
+          ],
+          "school": "CU",
+        },
+        Object {
+          "duration": "7",
+          "effort": "5",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/crypto",
+            "text": "Cryptography I",
+          },
+          "prerequisites": Array [
+            "Linear Algebra - Foundations to Frontiers",
+            "Introduction to Probability and Data",
+          ],
+          "school": "Stanford",
+        },
+      ]
+    }
+    name="Applications"
+  />
+  <CourseSection
+    courses={
+      Array [
+        Object {
+          "duration": "1",
+          "effort": "5",
+          "frequency": "Self-paced",
+          "name": Object {
+            "link": "https://www.udacity.com/course/linux-command-line-basics--ud595",
+            "text": "Linux Command Line Basics",
+          },
+          "school": "Udacity",
+        },
+        Object {
+          "duration": "4",
+          "effort": "4",
+          "frequency": "Once a month",
+          "name": Object {
+            "link": "https://www.coursera.org/learn/unix",
+            "text": "The Unix Workbench",
+          },
+          "school": "JHU",
+        },
+      ]
+    }
+    name="Unix"
+  />
+</div>
+`;

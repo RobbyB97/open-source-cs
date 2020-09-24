@@ -9,44 +9,98 @@ exports[`Render Navigation component 1`] = `
     links={
       Array [
         Object {
-          "href": "/cs-basics",
+          "href": "/standard-degree",
           "internal": true,
-          "text": "CS Basics",
+          "sublinks": Array [
+            Object {
+              "href": "/standard-degree#CSBasics",
+              "internal": true,
+              "text": "CS Basics",
+            },
+            Object {
+              "href": "/standard-degree#Programming",
+              "internal": true,
+              "text": "Programming",
+            },
+            Object {
+              "href": "/standard-degree#Math",
+              "internal": true,
+              "text": "Math",
+            },
+            Object {
+              "href": "/standard-degree#Systems",
+              "internal": true,
+              "text": "Systems",
+            },
+            Object {
+              "href": "/standard-degree#Theory",
+              "internal": true,
+              "text": "Theory",
+            },
+            Object {
+              "href": "/standard-degree#Applications",
+              "internal": true,
+              "text": "Applications",
+            },
+            Object {
+              "href": "/standard-degree#Unix",
+              "internal": true,
+              "text": "Unix",
+            },
+          ],
+          "text": "Standard Degree",
         },
         Object {
-          "href": "/programming",
+          "href": "/python-degree",
           "internal": true,
-          "text": "Programming",
-        },
-        Object {
-          "href": "/math",
-          "internal": true,
-          "text": "Math",
-        },
-        Object {
-          "href": "/systems",
-          "internal": true,
-          "text": "Systems",
-        },
-        Object {
-          "href": "/theory",
-          "internal": true,
-          "text": "Theory",
-        },
-        Object {
-          "href": "/applications",
-          "internal": true,
-          "text": "Applications",
-        },
-        Object {
-          "href": "/unix",
-          "internal": true,
-          "text": "Unix",
-        },
-        Object {
-          "href": "https://github.com/RobbyB97/open-source-cs",
-          "internal": false,
-          "text": "View on GitHub",
+          "sublinks": Array [
+            Object {
+              "href": "/standard-degree#CSBasics",
+              "internal": true,
+              "text": "CS Basics",
+            },
+            Object {
+              "href": "/standard-degree#Programming",
+              "internal": true,
+              "text": "Programming",
+            },
+            Object {
+              "href": "/standard-degree#Programming(alternative)",
+              "internal": true,
+              "text": "Programming (alternate)",
+            },
+            Object {
+              "href": "/standard-degree#Math",
+              "internal": true,
+              "text": "Math",
+            },
+            Object {
+              "href": "/standard-degree#DataScience",
+              "internal": true,
+              "text": "Data Science",
+            },
+            Object {
+              "href": "/standard-degree#Systems",
+              "internal": true,
+              "text": "Systems",
+            },
+            Object {
+              "href": "/standard-degree#Theory",
+              "internal": true,
+              "text": "Theory",
+            },
+            Object {
+              "href": "/standard-degree#Applications",
+              "internal": true,
+              "text": "Applications",
+            },
+            Object {
+              "href": "/standard-degree#Unix",
+              "internal": true,
+              "text": "Unix",
+            },
+          ],
+          "text": "Python Degree",
         },
       ]
     }
@@ -55,44 +109,98 @@ exports[`Render Navigation component 1`] = `
     links={
       Array [
         Object {
-          "href": "/cs-basics",
+          "href": "/standard-degree",
           "internal": true,
-          "text": "CS Basics",
+          "sublinks": Array [
+            Object {
+              "href": "/standard-degree#CSBasics",
+              "internal": true,
+              "text": "CS Basics",
+            },
+            Object {
+              "href": "/standard-degree#Programming",
+              "internal": true,
+              "text": "Programming",
+            },
+            Object {
+              "href": "/standard-degree#Math",
+              "internal": true,
+              "text": "Math",
+            },
+            Object {
+              "href": "/standard-degree#Systems",
+              "internal": true,
+              "text": "Systems",
+            },
+            Object {
+              "href": "/standard-degree#Theory",
+              "internal": true,
+              "text": "Theory",
+            },
+            Object {
+              "href": "/standard-degree#Applications",
+              "internal": true,
+              "text": "Applications",
+            },
+            Object {
+              "href": "/standard-degree#Unix",
+              "internal": true,
+              "text": "Unix",
+            },
+          ],
+          "text": "Standard Degree",
         },
         Object {
-          "href": "/programming",
+          "href": "/python-degree",
           "internal": true,
-          "text": "Programming",
-        },
-        Object {
-          "href": "/math",
-          "internal": true,
-          "text": "Math",
-        },
-        Object {
-          "href": "/systems",
-          "internal": true,
-          "text": "Systems",
-        },
-        Object {
-          "href": "/theory",
-          "internal": true,
-          "text": "Theory",
-        },
-        Object {
-          "href": "/applications",
-          "internal": true,
-          "text": "Applications",
-        },
-        Object {
-          "href": "/unix",
-          "internal": true,
-          "text": "Unix",
-        },
-        Object {
-          "href": "https://github.com/RobbyB97/open-source-cs",
-          "internal": false,
-          "text": "View on GitHub",
+          "sublinks": Array [
+            Object {
+              "href": "/standard-degree#CSBasics",
+              "internal": true,
+              "text": "CS Basics",
+            },
+            Object {
+              "href": "/standard-degree#Programming",
+              "internal": true,
+              "text": "Programming",
+            },
+            Object {
+              "href": "/standard-degree#Programming(alternative)",
+              "internal": true,
+              "text": "Programming (alternate)",
+            },
+            Object {
+              "href": "/standard-degree#Math",
+              "internal": true,
+              "text": "Math",
+            },
+            Object {
+              "href": "/standard-degree#DataScience",
+              "internal": true,
+              "text": "Data Science",
+            },
+            Object {
+              "href": "/standard-degree#Systems",
+              "internal": true,
+              "text": "Systems",
+            },
+            Object {
+              "href": "/standard-degree#Theory",
+              "internal": true,
+              "text": "Theory",
+            },
+            Object {
+              "href": "/standard-degree#Applications",
+              "internal": true,
+              "text": "Applications",
+            },
+            Object {
+              "href": "/standard-degree#Unix",
+              "internal": true,
+              "text": "Unix",
+            },
+          ],
+          "text": "Python Degree",
         },
       ]
     }

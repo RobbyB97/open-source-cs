@@ -1,0 +1,9 @@
+.StandardDegree {
+    @include page;
+}
+
+
+.StandardDegree__header {
+    @include pageHeader;
+    text-align: center;
+}
