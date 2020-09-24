@@ -43,39 +43,39 @@ export default [
         text: "Python Degree",
         internal: true,
         sublinks: [{
-            href: "/standard-degree#CSBasics",
+            href: "/python-degree#CSBasics",
             text: "CS Basics",
             internal: true
         }, {
-            href: "/standard-degree#Programming",
+            href: "/python-degree#Programming",
             text: "Programming",
             internal: true
         }, {
-            href: "/standard-degree#Programming(alternative)",
+            href: "/python-degree#Programming(alternative)",
             text: "Programming (alternate)",
             internal: true
         }, {
-            href: "/standard-degree#Math",
+            href: "/python-degree#Math",
             text: "Math",
             internal: true
         }, {
-            href: "/standard-degree#DataScience",
+            href: "/python-degree#DataScience",
             text: "Data Science",
             internal: true
         }, {
-            href: "/standard-degree#Systems",
+            href: "/python-degree#Systems",
             text: "Systems",
             internal: true
         }, {
-            href: "/standard-degree#Theory",
+            href: "/python-degree#Theory",
             text: "Theory",
             internal: true
         }, {
-            href: "/standard-degree#Applications",
+            href: "/python-degree#Applications",
             text: "Applications",
             internal: true
         }, {
-            href: "/standard-degree#Unix",
+            href: "/python-degree#Unix",
             text: "Unix",
             internal: true
         }]
