@@ -6,36 +6,78 @@
 
 export default [
     {
-        href: "/cs-basics",
-        text: "CS Basics",
-        internal: true
+        href: "/standard-degree",
+        text: "Standard Degree",
+        internal: true,
+        sublinks: [{
+            href: "/standard-degree#CSBasics",
+            text: "CS Basics",
+            internal: true
+        }, {
+            href: "/standard-degree#Programming",
+            text: "Programming",
+            internal: true
+        }, {
+            href: "/standard-degree#Math",
+            text: "Math",
+            internal: true
+        }, {
+            href: "/standard-degree#Systems",
+            text: "Systems",
+            internal: true
+        }, {
+            href: "/standard-degree#Theory",
+            text: "Theory",
+            internal: true
+        }, {
+            href: "/standard-degree#Applications",
+            text: "Applications",
+            internal: true
+        }, {
+            href: "/standard-degree#Unix",
+            text: "Unix",
+            internal: true
+        }]
     }, {
-        href: "/programming",
-        text: "Programming",
-        internal: true
-    }, {
-        href: "/math",
-        text: "Math",
-        internal: true
-    }, {
-        href: "/systems",
-        text: "Systems",
-        internal: true
-    }, {
-        href: "/theory",
-        text: "Theory",
-        internal: true
-    }, {
-        href: "/applications",
-        text: "Applications",
-        internal: true
-    }, {
-        href: "/unix",
-        text: "Unix",
-        internal: true
-    }, {
-        text: "View on GitHub",
-        href: "https://github.com/RobbyB97/open-source-cs",
-        internal: false
+        href: "/python-degree",
+        text: "Python Degree",
+        internal: true,
+        sublinks: [{
+            href: "/standard-degree#CSBasics",
+            text: "CS Basics",
+            internal: true
+        }, {
+            href: "/standard-degree#Programming",
+            text: "Programming",
+            internal: true
+        }, {
+            href: "/standard-degree#Programming(alternative)",
+            text: "Programming (alternate)",
+            internal: true
+        }, {
+            href: "/standard-degree#Math",
+            text: "Math",
+            internal: true
+        }, {
+            href: "/standard-degree#DataScience",
+            text: "Data Science",
+            internal: true
+        }, {
+            href: "/standard-degree#Systems",
+            text: "Systems",
+            internal: true
+        }, {
+            href: "/standard-degree#Theory",
+            text: "Theory",
+            internal: true
+        }, {
+            href: "/standard-degree#Applications",
+            text: "Applications",
+            internal: true
+        }, {
+            href: "/standard-degree#Unix",
+            text: "Unix",
+            internal: true
+        }]
     }
 ]

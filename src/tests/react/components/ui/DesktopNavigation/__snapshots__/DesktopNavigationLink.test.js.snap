@@ -45,14 +45,12 @@ exports[`Render DesktopNavigationLink component with internal link 1`] = `
 <li
   className="DesktopNavigationLink"
 >
-  <NavLink
-    activeClassName="active"
-    aria-current="page"
+  <ForwardRef
     className="DesktopNavigationLink__link"
     to="/"
   >
     Internal link
-  </NavLink>
+  </ForwardRef>
 </li>
 `;
 
@@ -60,14 +58,12 @@ exports[`Render DesktopNavigationLink component with internal link and sublink 1
 <li
   className="DesktopNavigationLink"
 >
-  <NavLink
-    activeClassName="active"
-    aria-current="page"
+  <ForwardRef
     className="DesktopNavigationLink__link"
     to="/"
   >
     Internal link with sublink
-  </NavLink>
+  </ForwardRef>
   <ul
     className="DesktopNavigationLink__sublink_list"
   >
@@ -75,14 +71,12 @@ exports[`Render DesktopNavigationLink component with internal link and sublink 1
       className="DesktopNavigationLink__sublink"
       key="Internal sublink"
     >
-      <NavLink
-        activeClassName="active"
-        aria-current="page"
+      <ForwardRef
         className="DesktopNavigationLink__sublink_link"
         to="/"
       >
         Internal sublink
-      </NavLink>
+      </ForwardRef>
     </li>
   </ul>
 </li>

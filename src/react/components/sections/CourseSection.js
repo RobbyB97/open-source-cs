@@ -12,9 +12,10 @@ export class CourseSection extends React.Component {
 
     render() {
         return (
+            /* id = name prop without spaces */
             <article id={this.props.name.replace(/\s/g, "")} className="CourseSection">
                 <header className="CourseSection__header">
-                    <h1>{this.props.name}</h1>
+                    <h2>{this.props.name}</h2>
                 </header>
 
                 <section className="CourseSection__courses">

@@ -12,12 +12,6 @@ export class Description extends React.Component {
     render() {
         return (
             <section id="Description" className="Description">
-                <header className="Description__header">
-                    <h1 className="Description__title">
-                        The Open Source Computer Science Degree
-                    </h1>
-                </header>
-
                 <section className="Description__description">
                     {/* Embed video, different sizes for different screens*/}
                     <figure className="Description__videoPhone">
@@ -29,7 +23,7 @@ export class Description extends React.Component {
                     </figure>
 
                     <figure className="Description__videoTablet">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/NyOvFSP_IpQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/NyOvFSP_IpQ" frameborder="0" allaow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                         <figcaption>
                             YouTuber <a href="https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg" target="_blank" rel="noopener">Forrest Knight</a> explains the concept of Open Source CS

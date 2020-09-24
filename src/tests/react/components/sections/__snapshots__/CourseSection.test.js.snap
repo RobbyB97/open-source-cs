@@ -8,9 +8,9 @@ exports[`Render CourseSection with courses 1`] = `
   <header
     className="CourseSection__header"
   >
-    <h1>
+    <h2>
       Section Name
-    </h1>
+    </h2>
   </header>
   <section
     className="CourseSection__courses"
@@ -43,9 +43,9 @@ exports[`Render CourseSection without courses 1`] = `
   <header
     className="CourseSection__header"
   >
-    <h1>
+    <h2>
       Section Name
-    </h1>
+    </h2>
   </header>
   <section
     className="CourseSection__courses"

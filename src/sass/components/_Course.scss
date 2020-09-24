@@ -1,5 +1,5 @@
 .Course {
-    background: $backgroundLightColor;
+    background: #131318;
     width: 284px;
     margin: 0 auto;
     text-align: center;
@@ -47,4 +47,16 @@
 
 .Course__prerequisites {
     @include courseDetail;
+
+    mark {
+        &:not(:last-child)::after {
+            content: ", \a";
+            white-space: pre;
+        }
+
+        &:not(:first-child)::before {
+            content: "";
+            margin-left: 56px;
+        }
+    }
 }

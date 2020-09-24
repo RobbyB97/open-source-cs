@@ -5,21 +5,9 @@ exports[`Render Description section 1`] = `
   className="Description"
   id="Description"
 >
-  <header
-    className="Description__header"
-  >
-    <h1
-      className="Description__title"
-    >
-      The Open Source Computer Science Degree
-    </h1>
-  </header>
   <section
     className="Description__description"
   >
-    <p>
-      This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
-    </p>
     <figure
       className="Description__videoPhone"
     >
@@ -45,7 +33,7 @@ exports[`Render Description section 1`] = `
       className="Description__videoTablet"
     >
       <iframe
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allaow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen={true}
         frameborder="0"
         height="315"
@@ -64,6 +52,9 @@ exports[`Render Description section 1`] = `
          explains the concept of Open Source CS
       </figcaption>
     </figure>
+    <p>
+      This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+    </p>
   </section>
 </section>
 `;
