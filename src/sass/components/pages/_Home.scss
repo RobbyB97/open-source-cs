@@ -1,3 +1,9 @@
 .Home {
     @include page;
 }
+
+
+.Home__header {
+    @include pageHeader;
+    text-align: center;
+}

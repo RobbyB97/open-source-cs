@@ -31,6 +31,11 @@ export class Home extends React.Component {
     render() {
         return (
             <div id="Home" className="Home">
+                <header className="Home__header">
+                    <h1 className="Home__title">
+                        The Open Source Computer Science degree
+                    </h1>
+                </header>
                 <Description />
             </div>
         );

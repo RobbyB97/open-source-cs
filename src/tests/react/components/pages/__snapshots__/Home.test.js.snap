@@ -5,6 +5,15 @@ exports[`Render Home page 1`] = `
   className="Home"
   id="Home"
 >
+  <header
+    className="Home__header"
+  >
+    <h1
+      className="Home__title"
+    >
+      The Open Source Computer Science degree
+    </h1>
+  </header>
   <Description />
 </div>
 `;
